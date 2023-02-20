@@ -8,7 +8,7 @@
 <h3 align="center">I'm a passionate AI Engineer from Germany.</h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "Hard work beats talent, when talent doesn't work Hard!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "The brain is like a muscle. When it is in use we feel very good. Understanding is joyous.!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
   
   
@@ -20,17 +20,17 @@
   
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Spandana!;I'm+a+AI+Engineer.;❤+Python+Pytorch+OpenCV;I+❤+ComputerVision..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Spandana!;I'm+a+AI+Engineer.;I+❤+ComputerVision..)](https://git.io/typing-svg)
 </div>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...**iOS Development**
-- 🌱 I’m currently learning ... **Marketing & Branding**
+- 🔭 I’m currently working on ...**OpenCV**
+- 🌱 I’m currently learning ... **Marketing & Branding & psycology**
 - 👯 I’m looking to collaborate on **YouTube**
-- 
-- 💬 Ask me about ...  Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="38">
+- 👊 Love to travel and explore new things in life. ;)
+- 💬 Ask me about ... AI, Computer Vision, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="38">
 
 - ⚡ Fun fact: ... I love to solve problems. **I can do leetcode problems all day**
 
