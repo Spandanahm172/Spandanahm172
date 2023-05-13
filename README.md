@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> there, fellow DEVELOPER'S</h1>
-<h3 align="center">I'm a passionate AI Engineer from Germany.</h3>
+<h3 align="center">I'm a passionate AI nad Web Development from India.</h3>
 
 <p align="center">
 <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "The brain is like a muscle. When it is in use we feel very good. Understanding is joyous.!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
