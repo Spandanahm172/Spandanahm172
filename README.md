@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> there, fellow DEVELOPER'S</h1>
-<h3 align="center">I'm a passionate AI nad Web Development from India.</h3>
+<h3 align="center">I'm a passionate AI and Web Development from India.</h3>
 
 <p align="center">
 <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "The brain is like a muscle. When it is in use we feel very good. Understanding is joyous.!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -20,19 +20,18 @@
   
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Spandana!;I'm+a+AI+Engineer.;I+❤+ComputerVision..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Spandana!;I'm+a+Developer;I+❤+to+Contribute+to+open+Source..)](https://git.io/typing-svg)
 </div>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...**OpenCV**
+- 🔭 I’m currently working on ...**Django**
 - 🌱 I’m currently learning ... **Marketing & Branding & psycology**
 - 👯 I’m looking to collaborate on **YouTube**
 - 👊 Love to travel and explore new things in life. ;)
-- 💬 Ask me about ... AI, Computer Vision, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="38">
+- 💬 Ask me about ... AI, Computer Vision, Web Development, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="38">
 
-- ⚡ Fun fact: ... I love to solve problems. **I can do leetcode problems all day**
 
 ## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
 <p align="left"> 
